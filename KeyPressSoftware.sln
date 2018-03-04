@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyPressSoftware", "KeyPressSoftware\KeyPressSoftware.csproj", "{24F6432B-9BDF-427D-80CC-543E9FA4DE9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24F6432B-9BDF-427D-80CC-543E9FA4DE9A}.Debug|x86.ActiveCfg = Debug|x86
+		{24F6432B-9BDF-427D-80CC-543E9FA4DE9A}.Debug|x86.Build.0 = Debug|x86
+		{24F6432B-9BDF-427D-80CC-543E9FA4DE9A}.Release|x86.ActiveCfg = Release|x86
+		{24F6432B-9BDF-427D-80CC-543E9FA4DE9A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
